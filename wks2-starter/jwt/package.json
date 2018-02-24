@@ -1,0 +1,17 @@
+{
+  "name": "jwt-soln",
+  "version": "1.0.0",
+  "description": "Sample solution for worksheet 2 (JWT)",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=3000 node index.js"
+  },
+  "author": "Brian Gillespie",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "massive": "^4.6.5"
+  }
+}
